@@ -1,0 +1,6 @@
+# print("hello",end="")
+# print("\n",end="")
+# print(end="\r")
+print('hello')
+print("\n",end="")
+print("world")
